@@ -67,7 +67,7 @@
 
 
 ### Vantrex  
-<img src="https://github-readme-stats.vercel.app/api?username=vantrex&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" style="width: 95%" />  
+<img src="https://github-readme-stats.vercel.app/api?username=vantrex&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&custom_title=Vantrex's+Github+Stats" align="center" style="width: 95%" />  
 
 
 
