@@ -62,29 +62,28 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table width="100%"><tr><td valign="top" width="50%" align="center">
 
 
 
 ### Vantrex  
-<img src="https://github-readme-stats.vercel.app/api?username=vantrex&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
+<img src="https://github-readme-stats.vercel.app/api?username=vantrex&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 95%" />  
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vantrex&hide_border=true&layout=compact" align="center" style="width: 95%" />  
+
+
+</td><td valign="top" width="50%" align="center">
 
 
 
 ### marinus-g  
-<img src="https://github-readme-stats.vercel.app/api?username=marinus-g&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=marinus-g&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 95%" />  
 
 
 
-### Vantrex  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vantrex&hide_border=true&layout=compact" align="left" style="width: 100%" />  
-
-
-
-### marinus-g  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinus-g&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinus-g&hide_border=true&layout=compact" align="center" style="width: 95%" />
 
 </td></tr></table>  
 
