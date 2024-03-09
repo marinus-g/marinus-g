@@ -79,7 +79,7 @@
 
 
 ### marinus-g  
-<img src="https://github-readme-stats.vercel.app/api?username=marinus-g&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" style="width: 95%" />  
+<img src="https://github-readme-stats.vercel.app/api?username=marinus-g&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&custom_title=Marinus' Github Stats" align="center" style="width: 95%" />  
 
 
 
