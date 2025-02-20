@@ -8,9 +8,6 @@
 - 🌱 I’m currently learning more about Software Engineering  
   
 
-- 🔭 I’m currently working on [starblaze](https://github.com/Drapuria/starblaze), a microservice structure for various services.  
-  
-
 - ⌨️ Also check out my other [GitHub account](https://github.com/vantrex) for even more projects!  
 
 
